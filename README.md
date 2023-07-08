@@ -6,3 +6,5 @@
 5. save the image and format the filename (images_converted)
 
 
+## run script
+python transform.py
