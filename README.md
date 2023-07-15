@@ -6,11 +6,11 @@
 5. save the image and format the filename (images_converted)
 
 # cli
-## compress only
+### compress only
 python transform.py --compress
-## remove bg only
+### remove bg only
 --remove-bg
-## output path for the converted images
+### output path for the converted images
 --output-path
 
 
